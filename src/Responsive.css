@@ -81,8 +81,8 @@
         display: block;
   justify-content: center;
   align-items: center;
-  width: 130vw;
-  height: 200vh;
+  width: 131vw;
+  height: 203vh;
     }
 
   .upper-section {
@@ -153,7 +153,7 @@
   }
   .testimonial-heading{
     margin-top: 50px;
-    margin-left: 170px;
+    margin-left: 160px;
     text-align: center;
   }
   .line{
